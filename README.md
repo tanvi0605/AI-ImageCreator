@@ -3,7 +3,7 @@
 ### **Project Overview**
 Turning ideas into visual content has always been a challenge, requiring hours of creativity and design. This project solves that by using AI to generate high-quality images from simple text prompts.
 
-This project bridges the gap between imagination and creation by enabling machines to generate stunning, high-quality images from just a few words. By leveraging advanced AI models like **Stable Diffusion**, this project empowers anyone—whether a professional or a hobbyist—to bring their ideas to life effortlessly.
+This project bridges the gap between imagination and creation by enabling machines to generate stunning, high-quality images from just a few words. By leveraging advanced AI models like **HuggingFace*, this project empowers anyone—whether a professional or a hobbyist—to bring their ideas to life effortlessly.
 
 ---
 
@@ -41,10 +41,9 @@ This project bridges the gap between imagination and creation by enabling machin
 ### **Examples**
 
 #### Input: *"A serene mountain landscape with a clear blue sky"*
-![Example 1](examples/example1.png)
+![image](https://github.com/user-attachments/assets/c4e1767e-748d-407d-bc40-3f257631dddc)
 
-#### Input: *"A cyberpunk city at night with neon lights"*
-![Example 2](examples/example2.png)
 
----
+
+
 
